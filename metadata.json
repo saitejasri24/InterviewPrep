@@ -1,0 +1,6 @@
+{
+  "name": "Interview Prep Hub",
+  "description": "A modern, student-focused interview preparation platform for college students and freshers featuring technical questions, HR answers, aptitude practice quizzes, and mock interview simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
